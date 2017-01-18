@@ -16,7 +16,7 @@ Possible Solution:
 Using Ford-Bellman algorithm instead of Dijkstra
 
 *For each search-word the algorithm will re-run from the beginning
-i.e for k search-words the time-complexity 
+i.e for k search-words the time-complexity                      
 will be K(E+ VLOGV) {E=edegs, V=Vertex}.
 For big k its can cause a problem time-complexity wise.
 
