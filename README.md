@@ -3,6 +3,7 @@
 Running instructions:
 
 Enter a search-words in Line 15 in "Program.java"
+
 Make sure that there is a valid "words.txt" file (its possible to change the path in Line 10 in "Program.java")
 
 Problems with the current state:
